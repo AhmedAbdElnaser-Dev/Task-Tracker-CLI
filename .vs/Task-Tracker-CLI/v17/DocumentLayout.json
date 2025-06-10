@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\C#\\Task-Tracker-CLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A95492C-6655-43AD-8E02-675BF0A82CC0}|Task-Tracker-CLI\\Task-Tracker-CLI.csproj|e:\\programming\\c#\\task-tracker-cli\\task-tracker-cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A95492C-6655-43AD-8E02-675BF0A82CC0}|Task-Tracker-CLI\\Task-Tracker-CLI.csproj|solutionrelative:task-tracker-cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Task-Tracker-CLI\\Task-Tracker-CLI\\Program.cs",
+              "RelativeDocumentMoniker": "Task-Tracker-CLI\\Program.cs",
+              "ToolTip": "E:\\Programming\\C#\\Task-Tracker-CLI\\Task-Tracker-CLI\\Program.cs",
+              "RelativeToolTip": "Task-Tracker-CLI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:57:38.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
